@@ -6,13 +6,5 @@
     "src/config"
   ],
   "custom-commit": false,
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "src/content",
-      "groupName": "Test Group",
-      "include": "",
-      "exclude": ""
-    }
-  ]
+  "arrangement": []
 }
