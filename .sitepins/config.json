@@ -1,10 +1,18 @@
 {
   "content": "src/content",
   "media": "public/images",
-  "public": "public",
+  "public": "",
   "configs": [
     "src/config"
   ],
   "custom-commit": false,
-  "arrangement": []
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content",
+      "groupName": "Test Group",
+      "include": "",
+      "exclude": ""
+    }
+  ]
 }
