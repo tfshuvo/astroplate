@@ -5,11 +5,6 @@ title: google-integration
 
 Google provider setup and usage.
 
-<Steps/>
-
-&#x20;&#x20;
-
-<Step>
 ```
 ### Get your Google credentials
 ```
@@ -35,7 +30,6 @@ In the Google Cloud Console > Credentials > Authorized redirect URIs, make sure 
   These steps avoid common issues such as `redirect_uri_mismatch`.
 </Callout>
 ```
-</Step>
 
 &#x20;&#x20;
 
