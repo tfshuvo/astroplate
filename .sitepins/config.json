@@ -1,10 +1,9 @@
 {
-  "content": "src/content",
   "media": "public",
-  "public": "public",
+  "content": "src/content",
   "configs": [
     "src/config"
   ],
-  "custom-commit": false,
-  "arrangement": []
+  "arrangement": [],
+  "custom-commit": true
 }
