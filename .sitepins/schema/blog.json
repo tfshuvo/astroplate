@@ -1,21 +1,14 @@
 {
   "file": "src/content/blog/post-2.md",
-  "name": "blog",
   "fileType": "md",
   "fmType": "yaml",
   "template": [
-    {
-      "name": "title",
-      "label": "Title",
-      "type": "string",
-      "value": "",
-      "defaultValue": ""
-    },
     {
       "name": "meta_title",
       "label": "Meta Title",
       "type": "string",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -23,6 +16,7 @@
       "label": "Description",
       "type": "string",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -30,6 +24,7 @@
       "label": "Date",
       "type": "Date",
       "value": "",
+      "isIgnored": false,
       "defaultValue": "",
       "alwaysUseCurrentDate": false
     },
@@ -38,6 +33,7 @@
       "label": "Image",
       "type": "media",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -45,6 +41,7 @@
       "label": "Categories",
       "type": "Array",
       "value": [],
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -52,6 +49,7 @@
       "label": "Author",
       "type": "string",
       "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -59,6 +57,7 @@
       "label": "Tags",
       "type": "Array",
       "value": [],
+      "isIgnored": false,
       "defaultValue": ""
     },
     {
@@ -66,6 +65,15 @@
       "label": "Draft",
       "type": "boolean",
       "value": false,
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
       "defaultValue": ""
     }
   ]
