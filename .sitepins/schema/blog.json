@@ -69,16 +69,6 @@
       "defaultValue": ""
     },
     {
-      "name": "test_field",
-      "label": "Test Field",
-      "type": "string",
-      "value": "",
-      "description": "",
-      "isIgnored": false,
-      "isRequired": false,
-      "defaultValue": ""
-    },
-    {
       "name": "draft",
       "label": "Draft",
       "type": "boolean",
