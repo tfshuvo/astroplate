@@ -79,8 +79,8 @@
     {
       "name": "number2",
       "label": "Number2",
-      "type": "number",
-      "value": "",
+      "type": "Array",
+      "value": [],
       "description": "",
       "isIgnored": false,
       "isRequired": false,
