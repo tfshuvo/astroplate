@@ -75,6 +75,17 @@
       "value": false,
       "isIgnored": false,
       "defaultValue": false
+    },
+    {
+      "name": "new_array_test",
+      "label": "New Array Test",
+      "type": "Array",
+      "value": [],
+      "description": "",
+      "isIgnored": false,
+      "isRequired": false,
+      "defaultValue": "",
+      "subType": "string"
     }
   ]
 }
