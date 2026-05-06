@@ -12,16 +12,8 @@ tags:
   - technology
 draft: false
 ---
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Sitepins just crossed 1,300 users and we are just getting started. As always, we remain committed to delivering the best possible experience and keeping your workflow smooth. If you are already using Sitepins, we would love to hear your feedback. If you are new, [<u>try it today</u>](https://sitepins.com/pricing) and see how it can streamline content management for you, your team, or your clients.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-This is a new line created by Shuvo
+* [<u>Our Roadmap</u>](https://updates.sitepins.com/)
+* [<u>Follow us on X</u>](https://x.com/sitepinscms)
+* [<u>Join Our Discord Community (Support)</u>](https://discord.gg/SuNEuX2eFj)
