@@ -75,16 +75,6 @@
       "value": false,
       "isIgnored": false,
       "defaultValue": false
-    },
-    {
-      "name": "number2",
-      "label": "Number2",
-      "type": "Array",
-      "value": [],
-      "description": "",
-      "isIgnored": false,
-      "isRequired": false,
-      "defaultValue": ""
     }
   ]
 }
